@@ -5,7 +5,7 @@
 #### Web Developer
 hello, I am a Front-End Focused Mern Stack Developer . I am expert in Tailwind, React Js, Node Js, Express Js, Mongodb .
 
-Skills: Tailwind / Javascript / React Js
+Skills: React Js / Node Js / Express Js / MongoDb
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Javascript 
