@@ -3,7 +3,7 @@
 
 ## Hi there 👋, I'm Tanvir Ahmed Jisan
 #### Web Developer
-hello, I am a Front-End web designer . I have 3 years of experience as a Front-End web developer. I am expert in Html , Css , Tailwind Css & React Js.
+hello, I am a Front-End Focused Mern Stack Developer . I am expert in Tailwind, React Js, Node Js, Express Js, Mongodb .
 
 Skills: Tailwind / Javascript / React Js
 
