@@ -18,10 +18,21 @@ Hello, I am a Front-End Focused MERN Stack Developer. I am an expert in Tailwind
 - 💬 Ask me about Web Development  
 
 ### Connect with Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/tanvirahmedjisan/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/Jisan-05)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'>](https://www.facebook.com/profile.php?id=100066276038929)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40'>](https://www.instagram.com/jisan_1212/)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanvirahmedjisan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
+  </a>
+  <a href="https://github.com/Jisan-05" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100066276038929" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40">
+  </a>
+  <a href="https://www.instagram.com/jisan_1212/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40">
+  </a>
+</p>
 
 ### GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-05)](https://github.com/anuraghazra/github-readme-stats)  
