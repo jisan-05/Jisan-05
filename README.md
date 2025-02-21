@@ -1,8 +1,13 @@
-<!-- Banner Image -->
-<img src="https://i.ibb.co.com/GvfvMkqc/Screenshot-2025-02-21-192335.png" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
-
 ## Hi there 👋, I'm Tanvir Ahmed Jisan
 #### Web Developer
+
+<!-- Banner Image -->
+<img src="https://i.ibb.co/GvfvMkqc/Screenshot-2025-02-21-192335.png" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
+
+
+
+<!-- Rest of your code... -->
+
 
 Hello, I am a Front-End Focused MERN Stack Developer. I am an expert in Tailwind, React Js, Node Js, Express Js, and MongoDB.
 
