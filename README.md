@@ -1,6 +1,9 @@
 <!-- Banner Image -->
 <img src="https://i.ibb.co/GvfvMkqc/Screenshot-2025-02-21-192335.png" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
 
+<!--- Profile Views Counter --->
+![](https://komarev.com/ghpvc/?username=jisan-05)
+
 <!-- Headline Section -->
 <h1 style="font-size: 2.5rem; font-weight: bold; color: #333; text-align: center; margin-top: 20px;">
   Hi there 👋, I'm Tanvir Ahmed Jisan
