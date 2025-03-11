@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/GvfvMkqc/Screenshot-2025-02-21-192335.png" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
 
 <!--- Profile Views Counter --->
-![](https://komarev.com/ghpvc/?username=jisan-05)
+
 
 <!-- Headline Section -->
 <h1 style="font-size: 2.5rem; font-weight: bold; color: #333; text-align: center; margin-top: 20px;">
@@ -16,6 +16,8 @@
 <p style="font-size: 1.25rem; text-align: center; max-width: 800px; margin: 0 auto; padding: 20px;">
   Hello, I am a Front-End Focused MERN Stack Developer. I am an expert in Tailwind, React Js, Node Js, Express Js, and MongoDB.
 </p>
+
+![](https://komarev.com/ghpvc/?username=jisan-05)
 
 <!-- Skills Section -->
 <h2 style="font-size: 2rem; font-weight: bold; color: #333; text-align: center; margin-top: 40px;">
