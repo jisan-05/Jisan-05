@@ -5,8 +5,11 @@
 
 <!-- Animated Typing Headline -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0057B8,1E90FF,4682B4&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Tanvir+Ahmed+Jisan;A+MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=003D8A&color=1E90FF&color=4F8D99&color=003366&color=4B0082&color=008080&color=5F9EA0&color=000080&color=4169E1&color=6495ED&color=00CED1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Tanvir+Ahmed+Jisan;A+MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Contributor" />
 </h1>
+
+
+
 
 <!-- Profile Views Counter -->
 <p align="center">
