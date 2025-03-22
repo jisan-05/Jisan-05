@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/GvfvMkq/Screenshot-2025-02-21-192335.png" alt="Banner" width="100%"/>
+  <!-- <img src="https://i.ibb.co/GvfvMkq/Screenshot-2025-02-21-192335.png" alt="Banner" width="100%"/> -->
 </p>
 
 <!-- Animated Typing Headline -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0057B8,1E90FF,4682B4&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Tanvir+Ahmed+Jisan;A+MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0057B8,1E90FF,4682B4&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Tanvir+Ahmed+Jisan;A+MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Contributor" />
 </h1>
 
 <!-- Profile Views Counter -->
@@ -62,9 +62,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jisan-05&theme=onedark&no-frame=true&column=6" alt="Trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Jisan-05/Jisan-05/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
+
 
 ---
 
