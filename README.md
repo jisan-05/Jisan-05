@@ -47,6 +47,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jisan-05&theme=radical" alt="GitHub Streak"/>
 </p>
 
+<!-- Dynamic Theme-Compatible Contribution Graph -->
+<!-- <img src="https://raw.githubusercontent.com/Jisan-05/Jisan-05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contributions" width="100%"/> -->
+
+<!-- OR -->
+
+[![Jisan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jisan-05&theme=react-dark&area=true&hide_border=true&color=5783a6&line=00a1ff&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
 ---
 
 ### 🌎 Connect with Me
