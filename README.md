@@ -5,8 +5,9 @@
 
 <!-- Animated Typing Headline -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Tanvir+Ahmed+Jisan;A+MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:semibold&size=24&duration=4000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Tanvir+Ahmed+Jisan;A+MERN+Stack+Developer;Building+Scalable+Web+Apps;Open+Source+Contributor" />
 </h1>
+
 
 
 
