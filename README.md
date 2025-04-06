@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
   <!-- <img src="https://i.ibb.co/GvfvMkq/Screenshot-2025-02-21-192335.png" alt="Banner" width="100%"/> -->
-</p>
+</p>  
  
 <!-- Animated Typing Headline -->  
 <h1 align="center">
