@@ -39,6 +39,10 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,html,css,github,vscode" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</div>
+
 ---
 
 ### 📊 GitHub Stats & Activity
