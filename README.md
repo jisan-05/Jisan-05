@@ -35,15 +35,31 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **Freelance Projects**
-- 🌱 Learning **Advanced JavaScript & Web Performance**
-- 🤝 Open to **collaborations on innovative projects**
-- 💬 Ask me about **MERN Stack & Web Development**
-- 🎯 Focused on **Scalable & Clean Code**
-- ⚡ Fun Fact: **I love debugging as much as coding!**
+### 👋 Hi, I'm Tanvir Ahmed Jisan
 
----
+I'm a passionate **MERN Stack Developer** who loves building full-stack web applications with clean UI, powerful backend, and smooth user experience.
+
+🔧 **Tech Stack I Use:**
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** Firebase, JWT  
+
+🔐 I specialize in creating secure, responsive, and scalable web apps with authentication, CRUD functionalities, and protected routes.
+🚀 I believe in learning by building. Every project I create is an opportunity to level up and push boundaries. Currently, I'm focused on sharpening my skills and working on real-world projects that solve real problems.
+🌱 Always learning. Always building.
+
+
+### 🌎 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanvirahmedjisan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100066276038929" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jisan_1212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://jisan-05.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:zishantanvir05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Jisan-05" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 
 ### 🛠 Tech Stack
 <p align="center">
@@ -76,15 +92,7 @@
 
 ---
 
-### 🌎 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanvirahmedjisan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100066276038929" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jisan_1212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://jisan-05.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:zishantanvir05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Jisan-05" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+
 
 
 ---
