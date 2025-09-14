@@ -74,9 +74,12 @@ I'm a passionate **MERN Stack Developer** who loves building full-stack web appl
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jisan-05&langs_count=10&layout=compact&theme=radical" alt="Top Languages"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Jisan-05&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jisan-05&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 <!-- Dynamic Theme-Compatible Contribution Graph -->
 <!-- <img src="https://raw.githubusercontent.com/Jisan-05/Jisan-05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contributions" width="100%"/> -->
