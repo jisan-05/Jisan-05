@@ -8,7 +8,9 @@
 
 
 <!-- <img src="https://i.ibb.co.com/hRbggGpq/202650321-7f4da361-f98f-4345-8df4-adf352a113221-ezgif-com-resize-1.gif" alt="coding animation" width="100%" /> -->
-<img src="https://i.ibb.co.com/ksDRB1rB/image.png" alt="coding animation" width="100%" /> 
+<!-- <img src="https://i.ibb.co.com/ksDRB1rB/image.png" alt="coding animation" width="100%" />  -->
+<img src="https://res.cloudinary.com/dl74ikne6/image/upload/v1763789455/Screenshot_from_2025-11-22_11-30-43_gou7uv.png" alt="coding animation" width="100%" />
+
 
 
 
