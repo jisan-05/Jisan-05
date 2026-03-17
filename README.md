@@ -70,7 +70,8 @@ I'm a passionate **MERN Stack Developer** who loves building full-stack web appl
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
+ width="100%" />
 </div>
 
 ---
@@ -108,12 +109,6 @@ I'm a passionate **MERN Stack Developer** who loves building full-stack web appl
 - 🔥 **Consistently learning & improving** coding skills
 - 💡 **Solving real-world problems** with MERN Stack
 
----
-
-### ⚡ Fun Animated Widgets
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jisan-05&theme=onedark&no-frame=true&column=6" alt="Trophies"/>
-</p>
 
 
              
