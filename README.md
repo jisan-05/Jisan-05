@@ -43,10 +43,10 @@
 I'm a passionate **MERN Stack Developer** who loves building full-stack web applications with clean UI, powerful backend, and smooth user experience.
 
 🔧 **Tech Stack I Use:**
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Authentication:** Firebase, JWT  
+- **Frontend:** React.js, Next.js, Typescript, Tailwind CSS  
+- **Backend:** Node.js, Express.js , Prisma ORM
+- **Database:** MongoDB , PostgreSQL
+- **Authentication:** Better Auth, JWT, Firebase  
 
 🔐 I specialize in creating secure, responsive, and scalable web apps with authentication, CRUD functionalities, and protected routes.
 🚀 I believe in learning by building. Every project I create is an opportunity to level up and push boundaries. Currently, I'm focused on sharpening my skills and working on real-world projects that solve real problems.
