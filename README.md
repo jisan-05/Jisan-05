@@ -66,7 +66,7 @@ I'm a passionate **MERN Stack Developer** who loves building full-stack web appl
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,js,tailwind,html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,nodejs,express,mongodb,postgres,prisma,js,tailwind,github,vscode" />
 </p>
 
 <div align="center">
