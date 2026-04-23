@@ -40,10 +40,10 @@
 
 ### 👋 Hi, I'm Tanvir Ahmed Jisan
 
-I'm a passionate **MERN Stack Developer** who loves building full-stack web applications with clean UI, powerful backend, and smooth user experience.
+I’m a passionate Junior Full Stack Developer with a strong focus on building modern web applications using the MERN stack. I enjoy creating clean and responsive user interfaces, developing scalable backend systems, and delivering smooth user experiences.
 
 🔧 **Tech Stack I Use:**
-- **Frontend:** React.js, Next.js, Typescript, Tailwind CSS  
+- **Frontend:** React.js, Next.js, Typescript, Tailwind CSS, ShadCN UI
 - **Backend:** Node.js, Express.js , Prisma ORM
 - **Database:** MongoDB , PostgreSQL
 - **Authentication:** Better Auth, JWT, Firebase  
