@@ -75,7 +75,7 @@ I’m a passionate Junior Full Stack Developer with a strong focus on building m
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Stats & Activity
 <p align="center">
   
@@ -95,7 +95,7 @@ I’m a passionate Junior Full Stack Developer with a strong focus on building m
     style="display:inline-block;"
   />
 </p>
-
+ -->
 
 <!-- Dynamic Theme-Compatible Contribution Graph -->
 <!-- <img src="https://raw.githubusercontent.com/Jisan-05/Jisan-05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contributions" width="100%"/> -->
